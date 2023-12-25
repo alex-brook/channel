@@ -1,0 +1,4 @@
+(channel
+  (version 0)
+  (url "https://github.com/alex-brook/channel")
+  (directory "abr"))
